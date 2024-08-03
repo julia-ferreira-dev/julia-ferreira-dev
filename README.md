@@ -4,7 +4,7 @@
     </a>
   </div>
   <div>
-    <img src="https://img.shields.io/static/v1?label=Overview&message=juliaferreira1999&color=f8efd4&style=for-the-badge&logo=GitHub">
+    <img src="https://img.shields.io/static/v1?label=Overview&message=julia-ferreira-dev&color=f8efd4&style=for-the-badge&logo=GitHub">
     <h2>Estudando Análise e Desenvolvimento de Sistemas e Ciência da Computação</h2>
     <h3>🚀 Minhas Skills</h3>
     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -14,6 +14,4 @@
     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
   </div>
 
-
-<img src="https://github.com/julia-ferreira-dev/julia-ferreira-dev/assets/33405329/9b8ad4fa-416f-44b3-bc5f-d4d0c8618cf8"/>
 
