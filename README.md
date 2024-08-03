@@ -15,5 +15,5 @@
   </div>
 
 
-<img src="https://github.com/Juliaferreira1999/Juliaferreira1999/assets/33405329/9b8ad4fa-416f-44b3-bc5f-d4d0c8618cf8"/>
+<img src="https://github.com/julia-ferreira-dev/julia-ferreira-dev/assets/33405329/9b8ad4fa-416f-44b3-bc5f-d4d0c8618cf8"/>
 
