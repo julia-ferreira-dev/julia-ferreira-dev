@@ -1,6 +1,6 @@
   <div>
     <a href="https://github.com/julia-ferreira-dev/convoychat">
-      <img align="top" src="https://github-readme-stats.vercel.app/api?username=Juliaferreira1999&repo=github-readme-stats&cache_seconds=86400&theme=rose" />
+      <img align="top" src="https://github-readme-stats.vercel.app/api?username=julia-ferreira-dev&repo=github-readme-stats&cache_seconds=86400&theme=rose" />
     </a>
   </div>
   <div>
