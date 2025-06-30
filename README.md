@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou a Julia 👋</h1>
-<p align="center">Desenvolvedora Web apaixonada por transformar ideias em experiências visuais incríveis 💻✨</p>
+<h3 align="center">Desenvolvedora Web apaixonada por transformar ideias em experiências visuais incríveis 💻✨</h3>
 
 ---
 
